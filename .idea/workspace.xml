@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e52e7051-a47f-4498-b296-371307b11c04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/Exercise_1.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/Exercise_2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/Exercise_3.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/Exercise_4.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercise3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +19,16 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2cfVrr5CT9K9lj37kR9mACFhKvn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,9 +43,15 @@
     "JUnit.Test4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mahan/Documents/Java/AP-1402/Third-Assignment-RegEx/.github/workflows",
+    "last_opened_file_path": "C:/First-Assignment-RegEx",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -52,16 +60,9 @@
       <recent name="C:\Users\Mahan\Documents\Java\AP-1402\Third-Assignment-RegEx\.github\workflows" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test4">
-    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise3" />
-      <module name="Third-Assignment-RegEx" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Third-Assignment-RegEx" />
+  <component name="RunManager" selected="JUnit.Test4 (۱)">
+    <configuration name="Test1 (۱)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First-Assignment-RegEx" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="class" />
@@ -69,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Third-Assignment-RegEx" />
+    <configuration name="Test2 (۱)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First-Assignment-RegEx" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Test2" />
       <option name="TEST_OBJECT" value="class" />
@@ -78,10 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Third-Assignment-RegEx" />
+    <configuration name="Test3 (۱)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First-Assignment-RegEx" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Test3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4 (۱)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First-Assignment-RegEx" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test4" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test4 (۱)" />
+        <item itemvalue="JUnit.Test3 (۱)" />
+        <item itemvalue="JUnit.Test1 (۱)" />
+        <item itemvalue="JUnit.Test2 (۱)" />
         <item itemvalue="JUnit.Test4" />
-        <item itemvalue="JUnit.Test3" />
-        <item itemvalue="JUnit.Test1" />
-        <item itemvalue="JUnit.Test2" />
-        <item itemvalue="Application.Exercise3" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +131,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708502822934</updated>
+      <workItem from="1710272563705" duration="3892000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
